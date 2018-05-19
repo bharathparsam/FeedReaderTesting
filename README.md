@@ -4,7 +4,7 @@ A browser based testing of a web-based application that reads RSS feeds.
 
 ## Test Suites created
 
-1. RSS Feeds:
+RSS Feeds:
 
 -   are defined.
 -   are not left empty.
@@ -13,16 +13,16 @@ A browser based testing of a web-based application that reads RSS feeds.
 -   feeds URL's length is of minimum 08 characters in length.
 -   feeds names are not left empty.
 
-2. The menu:
+The menu:
 
 -   menu is hidden by default.
 -   menu changes its visibility whenever clicked.
 
-3. Initial Entries:
+Initial Entries:
 
 -   Atleast one feed
 
-4. New Feed Selection:
+New Feed Selection:
 
 -   Content changes whenever a new feed is loaded.
 
